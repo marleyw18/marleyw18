@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marleyw18
+- 👀 I’m interested in software engineering!
+- 🌱 I’m currently learning Python, HTML, CSS
+- 📫 How to reach me marleyw041803@gmail.com
