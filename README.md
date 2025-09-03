@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @marleyw18
-- 👀 I’m interested in software engineering!
-- 🌱 I’m currently studying Mathematics at GSU and learning Python, HTML and CSS
+- 👀 I’m interested in Data and Financial Analytics
+- 🌱 I’m currently studying Mathematics at UGA
 - 📫 How to reach me marleyw041803@gmail.com
