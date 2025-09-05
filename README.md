@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @marleyw18
 - 👀 I’m interested in Data and Financial Analytics
-- 🌱 I’m currently studying Mathematics at UGA
+- 🌱 I’m currently studying Mathematics at the University of Georgia
 - 📫 How to reach me marleyw041803@gmail.com
